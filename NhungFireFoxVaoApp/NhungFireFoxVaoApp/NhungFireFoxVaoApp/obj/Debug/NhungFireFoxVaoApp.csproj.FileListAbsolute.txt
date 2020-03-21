@@ -1,0 +1,16 @@
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\obj\Debug\NhungFireFoxVaoApp.csprojAssemblyReference.cache
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\obj\Debug\NhungFireFoxVaoApp.Form1.resources
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\obj\Debug\NhungFireFoxVaoApp.Properties.Resources.resources
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\obj\Debug\NhungFireFoxVaoApp.csproj.GenerateResource.cache
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\obj\Debug\NhungFireFoxVaoApp.csproj.CoreCompileInputs.cache
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\bin\Debug\NhungFireFoxVaoApp.exe.config
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\bin\Debug\NhungFireFoxVaoApp.exe
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\bin\Debug\NhungFireFoxVaoApp.pdb
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\bin\Debug\Geckofx-Core.dll
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\bin\Debug\Geckofx-Winforms.dll
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\bin\Debug\Geckofx-Core.pdb
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\bin\Debug\Geckofx-Core.dll.config
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\bin\Debug\Geckofx-Winforms.pdb
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\obj\Debug\NhungFireFoxVaoApp.csproj.CopyComplete
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\obj\Debug\NhungFireFoxVaoApp.exe
+D:\Learning\Git\Technical_Stream_c-\NhungFireFoxVaoApp\NhungFireFoxVaoApp\NhungFireFoxVaoApp\obj\Debug\NhungFireFoxVaoApp.pdb
